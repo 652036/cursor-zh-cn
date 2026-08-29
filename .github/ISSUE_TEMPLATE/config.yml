@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 报告安全漏洞
+    url: https://github.com/652036/cursor-zh-cn/security/advisories/new
+    about: 请通过私密渠道提交漏洞细节和敏感信息。
+  - name: Cursor 官方反馈
+    url: https://forum.cursor.com/
+    about: Cursor 产品功能或账号问题请通过官方渠道反馈。
